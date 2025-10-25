@@ -1,3 +1,6 @@
+
+
+
 # # ⚔️ Simulador de Batalha RPG
 
 Projeto desenvolvido para a disciplina **Programação Orientada a Objetos (POO)**, com o objetivo de aplicar os principais conceitos de orientação a objetos em Java de forma prática e interativa.
@@ -6,7 +9,7 @@ Projeto desenvolvido para a disciplina **Programação Orientada a Objetos (POO)
 
 ## 🎯 Objetivo
 
-O sistema tem como objetivo simular batalhas entre personagens de diferentes classes (Guerreiro, Mago e Arqueiro), proporcionando uma experiência simples, interativa e educativa, voltada ao aprendizado dos conceitos de POO.
+O sistema tem como objetivo simular batalhas entre personagens de diferentes classes (Guerreiro e Mago), proporcionando uma experiência simples, interativa e educativa, voltada ao aprendizado dos conceitos de POO.
 
 
 
@@ -17,7 +20,6 @@ src/
 │ ├── Personagem.java
 │ ├── Guerreiro.java
 │ ├── Mago.java
-│ └── Arqueiro.java
 │
 ├── controller/
 │ └── BatalhaController.java
@@ -67,8 +69,10 @@ src/
 - Kilber Fernando  
 
 
-## 🔗 Repositório do Projeto
+## 🔗 Vídeo do projeto
 
-[https://github.com/kilberfernando/SimuladorRPG_POO](https://github.com/kilberfernando/SimuladorRPG_POO)
+
+https://github.com/user-attachments/assets/f2bec578-91b7-4eea-a449-3e408e7bf237
+
 
 
